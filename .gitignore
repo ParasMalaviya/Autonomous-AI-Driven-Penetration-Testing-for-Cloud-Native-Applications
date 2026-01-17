@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Large files (too large for GitHub - exceeds 100MB limit)
+*.zip
+CVEfixes_v1.0.8/Data/CVEfixes_v1.0.8.log
+CVEfixes_v1.0.8/Data/json/*.json
+CVEfixes_v1.0.8/Data/*.tgz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/

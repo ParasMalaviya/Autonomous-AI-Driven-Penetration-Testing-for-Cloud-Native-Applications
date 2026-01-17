@@ -1,0 +1,4 @@
+Coverage: Manual=0.45, Auto=0.62, AI=0.78
+TimeToDetect: Manual=120, Auto=60, AI=40
+Precision: Manual=0.55, Auto=0.7, AI=0.76
+Explainability(AI Likert): 4.0

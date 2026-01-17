@@ -1,0 +1,24 @@
+Model: RF
+Acc: 0.9080
+              precision    recall  f1-score   support
+
+           0     0.9372    0.9655    0.9512       232
+           1     0.2727    0.1667    0.2069        18
+
+    accuracy                         0.9080       250
+   macro avg     0.6050    0.5661    0.5790       250
+weighted avg     0.8894    0.9080    0.8976       250
+
+
+Model: GB
+Acc: 0.9000
+              precision    recall  f1-score   support
+
+           0     0.9295    0.9655    0.9471       232
+           1     0.1111    0.0556    0.0741        18
+
+    accuracy                         0.9000       250
+   macro avg     0.5203    0.5105    0.5106       250
+weighted avg     0.8705    0.9000    0.8843       250
+
+

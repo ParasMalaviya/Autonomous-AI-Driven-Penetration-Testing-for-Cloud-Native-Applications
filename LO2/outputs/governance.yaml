@@ -1,0 +1,1 @@
+{"sandbox": true, "rate_limit_per_min": 120, "timeout_seconds": 10, "rollback_after_cycle": true, "logging": {"enabled": true, "level": "INFO"}, "frameworks": ["NIST AI RMF 2023", "ENISA AI TL 2024", "Responsible AI"]}

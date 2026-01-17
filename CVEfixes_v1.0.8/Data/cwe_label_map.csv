@@ -1,0 +1,10 @@
+cwe_id,label
+CWE-125,0
+CWE-190,1
+CWE-22,2
+CWE-416,3
+CWE-476,4
+CWE-787,5
+CWE-863,6
+NVD-CWE-Other,7
+NVD-CWE-noinfo,8
